@@ -6,6 +6,6 @@ This project uses labeled individuals' income dataset collected from the 1994 U.
 - Data preparation and processing
 - Data shuffling and splitting
 - This project applied 3 supervised LEarning models
--- Decision Tree Classifier
+* Decision Tree Classifier
 2. Support Vector Machine
 3. AdaBosst Classifier
